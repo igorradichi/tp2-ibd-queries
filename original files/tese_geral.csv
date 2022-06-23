@@ -1,0 +1,136 @@
+TIPO,COD_CURSO,CURSO,QUANTIDADE
+Dissertação,FE06-FP,Psicologia - Formação do Psicólogo,1
+Dissertação,FT05,Engenharia da Computação,1
+Dissertação,IE03,Matemática,1
+Dissertação,IE03-L,Matemática - Licenciatura,1
+Dissertação,PL-ÉTICA2,Especialização em Ética,1
+Dissertação,PPG-ANS-D,Doutorado em Antropologia Social,1
+Dissertação,PPG-ANS-M,Mestrado em Antropologia Social,36
+Dissertação,PPG-ATR-M,Mestrado em Agronomia Tropical,29
+Dissertação,PPG-BIOT-M,Mestrado em Biotecnologia,39
+Dissertação,PPG-CA-M,Mestrado em Ciências Ambientais,30
+Dissertação,PPG-CAN-M,Mestrado em Ciência Animal,26
+Dissertação,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,21
+Dissertação,PPG-CASA-D,Doutorado em Ciências do Ambiente e Sustentabilidade na Amazônia,1
+Dissertação,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,51
+Dissertação,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,75
+Dissertação,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,35
+Dissertação,PPG-CIFA-M,Mestrado em Ciências Florestais e Ambientais,45
+Dissertação,PPG-CIR-M,Mestrado Profissional em Cirurgia,32
+Dissertação,PPG-CIS-M,Mestrado em Ciências da Saúde,21
+Dissertação,PPG-COM-M,Mestrado em Ciência da Comunicação,31
+Dissertação,PPG-CPT-M,Mestrado em Ciências Pesqueiras nos Trópicos,13
+Dissertação,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,29
+Dissertação,PPG-DES-M,Mestrado em Design,20
+Dissertação,PPG-DIB-M,Mestrado em Diversidade Biológica,4
+Dissertação,PPG-DIR-M,Mestrado em Direito,15
+Dissertação,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,22
+Dissertação,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,49
+Dissertação,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,75
+Dissertação,PPG-EDU-D,Doutorado em Educação,3
+Dissertação,PPG-EDU-M,Mestrado em Educação,75
+Dissertação,PPG-ENC-M,Mestrado em Engenharia Civil,36
+Dissertação,PPG-ENE-M,Mestrado em Engenharia Elétrica,47
+Dissertação,PPG-ENF-M,Mestrado em Enfermagem,28
+Dissertação,PPG-ENF-MP,Mestrado em Enfermagem no Contexto Amazônico,10
+Dissertação,PPG-ENP-M,Mestrado em Engenharia de Produção,47
+Dissertação,PPG-ERA-M,Mestrado em Engenharia de Recursos da Amazônia,3
+Dissertação,PPG-FILO-M,Mestrado Profissional em Filosofia,10
+Dissertação,PPG-FIS-M,Mestrado em Física,16
+Dissertação,PPG-GEOC-M,Mestrado em Geociências,12
+Dissertação,PPG-GEO-M,Mestrado em Geografia,73
+Dissertação,PPG-HIC-M,Mestrado em História - Cultura,9
+Dissertação,PPG-HIP-M,Mestrado em História -  Política,12
+Dissertação,PPG-HIS-M,Mestrado em História,8
+Dissertação,PPG-HIT-M,Mestrado em História - Trabalho,11
+Dissertação,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,1
+Dissertação,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,25
+Dissertação,PPG-INF-D,Doutorado em Informática,2
+Dissertação,PPG-INF-M,Mestrado em Informática,95
+Dissertação,PPG-LET-M,Mestrado em Letras,104
+Dissertação,PPG-MAT-M,Mestrado em Matemática,21
+Dissertação,PPG-MAT-MP,Mestrado Profissional em Matemática em Rede Nacional,29
+Dissertação,PPG-MES-M,Mestrado em Matemática - Estatística,1
+Dissertação,PPG-MGE-M,Mestrado em Matemática - Geometria,1
+Dissertação,PPG-ODO-M,Mestrado em Odontologia,35
+Dissertação,PPG-PAT-M,Mestrado em Patologia Tropical,2
+Dissertação,PPG-PPS-M,Mestrado em Psicologia: Processos Psicossociais,1
+Dissertação,PPG-PSIC-M,Mestrado em Psicologia,56
+Dissertação,PPG-QUI-D,Doutorado em Química,2
+Dissertação,PPG-QUI-M,Mestrado em Química,54
+Dissertação,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,78
+Dissertação,PPG-SEA-M,"Mestrado em Saúde, Sociedade e Endemias na Amazônia",24
+Dissertação,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,47
+Dissertação,PPG-SOC-M,Mestrado em Sociologia,14
+Dissertação,PPG-ZOO-M,Mestrado em Zoologia,24
+Dissertação,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,9
+TCC,FE06-FP,Psicologia - Formação do Psicólogo,3
+TCC,FS01,Farmácia,1
+TCC,FT01,Engenharia Civil,13
+TCC,FT02-E,Engenharia Elétrica - Eletrônica,4
+TCC,FT02-ET,Engenharia Elétrica - Eletrotécnica,2
+TCC,FT02-T,Engenharia Elétrica - Telecomunicações,6
+TCC,FT05,Engenharia da Computação,5
+TCC,FT07,Design,1
+TCC,FT08,Engenharia de Materiais,1
+TCC,FT09,Engenharia Mecânica,4
+TCC,FT10,Arquitetura e Urbanismo,14
+TCC,FT11,Engenharia de Petróleo e Gás,2
+TCC,IA01,Agronomia,13
+TCC,IA02,Engenharia Ambiental,1
+TCC,IA03,Ciências - Biologia e Química,3
+TCC,IA04,Pedagogia,12
+TCC,IB01-B,Ciências Biológicas - Bacharelado,1
+TCC,IB16,Educação Física,1
+TCC,IH01,Biblioteconomia,5
+TCC,IH12,Comunicação Social - Relações Públicas,6
+TCC,IH14,Filosofia,2
+TCC,IH25,Arquivologia,1
+TCC,IH39,Relações Públicas,3
+TCC,IN01,Administração,20
+TCC,IN02,Pedagogia,18
+TCC,IN03,Antropologia,5
+TCC,IN05,Letras - Língua e Literatura Portuguesa e Língua e Literatura Espanhola,15
+TCC,IN06,Ciências - Biologia e Química,11
+TCC,IN07,Ciências Agrárias e do Ambiente,8
+TCC,IP02,Comunicação Social - Jornalismo,2
+TCC,IP03,Educação Física,5
+TCC,IP04,Pedagogia,2
+TCC,IS01,Nutrição,3
+TCC,IS03,Fisioterapia,8
+TCC,IS04,Enfermagem,4
+TCC,IS05,Ciências - Matemática e Física,1
+TCC,IS06,Ciências - Biologia e Química,9
+TCC,IT01,Sistemas de Informação,4
+TCC,IT02,Farmácia,15
+TCC,IT04,Ciências - Matemática e Física,2
+TCC,IT05,Ciências - Química e Biologia,9
+TCC,IT06,Química Industrial,9
+TCC,IT16,Engenharia de Software,6
+TCC,IT18,Agronomia,6
+TCC,PPG-CA-M,Mestrado em Ciências Ambientais,1
+TCC,PPG-CIFA-M,Mestrado em Ciências Florestais e Ambientais,1
+TCC,PPG-CIR-M,Mestrado Profissional em Cirurgia,1
+TCC,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,1
+TCC,PPG-ENE-M,Mestrado em Engenharia Elétrica,1
+Tese,IS02,Biotecnologia,1
+Tese,PPG-ANS-D,Doutorado em Antropologia Social,22
+Tese,PPG-ATR-D,Doutorado em Agronomia Tropical,30
+Tese,PPG-ATR-M,Mestrado em Agronomia Tropical,1
+Tese,PPG-BIO-D,Doutorado em Biodiversidade e Biotecnologia da Rede Bionorte,10
+Tese,PPG-BIOT-D,Doutorado em Biotecnologia,34
+Tese,PPG-CARP-D,Doutorado em Ciência Animal e Recursos Pesqueiros,7
+Tese,PPG-CASA-D,Doutorado em Ciências do Ambiente e Sustentabilidade na Amazônia,28
+Tese,PPG-CPT-D,Doutorado em Ciências Pesqueiras nos Trópicos,10
+Tese,PPG-EDA-D,Doutorado em Educação na Amazônia,1
+Tese,PPG-EDU-D,Doutorado em Educação,41
+Tese,PPG-ENE-D,Doutorado em Engenharia Elétrica,1
+Tese,PPG-FIS-D,Doutorado em Física,6
+Tese,PPG-IFAR-D,Doutorado em Inovação Farmacêutica,8
+Tese,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,14
+Tese,PPG-INF-D,Doutorado em Informática,37
+Tese,PPG-INF-M,Mestrado em Informática,1
+Tese,PPG-MAT-D,Doutorado em Matemática,6
+Tese,PPG-QUI-D,Doutorado em Química,34
+Tese,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,73
+Tese,PPG-ZOO-D,Doutorado em Zoologia,4

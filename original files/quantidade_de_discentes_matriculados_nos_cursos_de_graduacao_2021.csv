@@ -1,0 +1,114 @@
+NIVEL,COD_CURSO,NOME_CURSO,TURNO,QTDE_MATRICULADO
+Ensino Superior - Graduação Regular,EM01,Enfermagem,Diurno,49
+Ensino Superior - Graduação Regular,FA01,Administração,Matutino,88
+Ensino Superior - Graduação Regular,FA02,Administração,Noturno,74
+Ensino Superior - Graduação Regular,FA03,Ciências Contábeis,Vespertino,51
+Ensino Superior - Graduação Regular,FA04,Ciências Contábeis,Noturno,46
+Ensino Superior - Graduação Regular,FA05,Ciências Econômicas,Matutino,41
+Ensino Superior - Graduação Regular,FA06,Ciências Econômicas,Noturno,36
+Ensino Superior - Graduação Regular,FD01,Direito,Diurno,60
+Ensino Superior - Graduação Regular,FD02,Direito,Noturno,57
+Ensino Superior - Graduação Regular,FE02,Pedagogia,Matutino,56
+Ensino Superior - Graduação Regular,FE03,Pedagogia,Vespertino,63
+Ensino Superior - Graduação Regular,FE06-FP,Psicologia - Formação do Psicólogo,Noturno,49
+Ensino Superior - Graduação Regular,FG01,Agronomia,Diurno,35
+Ensino Superior - Graduação Regular,FG02,Engenharia Florestal,Diurno,27
+Ensino Superior - Graduação Regular,FG03,Engenharia de Pesca,Diurno,24
+Ensino Superior - Graduação Regular,FG04,Zootecnia,Diurno,28
+Ensino Superior - Graduação Regular,FG05,Engenharia de Alimentos,Diurno,28
+Ensino Superior - Graduação Regular,FS01,Farmácia,Diurno,37
+Ensino Superior - Graduação Regular,FS02,Medicina,Diurno,109
+Ensino Superior - Graduação Regular,FS03,Odontologia,Diurno,36
+Ensino Superior - Graduação Regular,FT01,Engenharia Civil,Diurno,35
+Ensino Superior - Graduação Regular,FT02-E,Engenharia Elétrica - Eletrônica,Diurno,14
+Ensino Superior - Graduação Regular,FT02-ET,Engenharia Elétrica - Eletrotécnica,Diurno,12
+Ensino Superior - Graduação Regular,FT02-T,Engenharia Elétrica - Telecomunicações,Diurno,9
+Ensino Superior - Graduação Regular,FT05,Engenharia da Computação,Diurno,43
+Ensino Superior - Graduação Regular,FT06,Engenharia de Produção,Vespertino/Noturno,38
+Ensino Superior - Graduação Regular,FT07,Design,Diurno,43
+Ensino Superior - Graduação Regular,FT08,Engenharia de Materiais,Diurno,30
+Ensino Superior - Graduação Regular,FT09,Engenharia Mecânica,Diurno,30
+Ensino Superior - Graduação Regular,FT10,Arquitetura e Urbanismo,Vespertino/Noturno,38
+Ensino Superior - Graduação Regular,FT11,Engenharia de Petróleo e Gás,Vespertino/Noturno,24
+Ensino Superior - Graduação Regular,FT12,Engenharia Química,Vespertino/Noturno,28
+Ensino Superior - Graduação Regular,IB01-B,Ciências Biológicas - Bacharelado,Diurno,19
+Ensino Superior - Graduação Regular,IB01-L,Ciências Biológicas - Licenciatura,Diurno,18
+Ensino Superior - Graduação Regular,IB02,Educação Física,Diurno,31
+Ensino Superior - Graduação Regular,IB05,Ciências Naturais,Diurno,20
+Ensino Superior - Graduação Regular,IB06,Educação Física - Promoção em Saúde e Lazer,Vespertino,17
+Ensino Superior - Graduação Regular,IB07,Educação Física - Treinamento Esportivo,Vespertino,17
+Ensino Superior - Graduação Regular,IB08,Fisioterapia,Integral (Matutino e Vespertino),38
+Ensino Superior - Graduação Regular,IB09,Biotecnologia,Noturno,23
+Ensino Superior - Graduação Regular,IB14,Ciências Naturais,Noturno,15
+Ensino Superior - Graduação Regular,IB15,Ciências Biológicas,Noturno,26
+Ensino Superior - Graduação Regular,IB16,Educação Física,Noturno,35
+Ensino Superior - Graduação Regular,IE01,Estatística,Vespertino/Noturno,25
+Ensino Superior - Graduação Regular,IE02,Geologia,Diurno,12
+Ensino Superior - Graduação Regular,IE03-L,Matemática - Licenciatura,Matutino,38
+Ensino Superior - Graduação Regular,IE07,Matemática - Licenciatura,Noturno,30
+Ensino Superior - Graduação Regular,IE08,Ciência da Computação,Diurno,52
+Ensino Superior - Graduação Regular,IE09,Química - Licenciatura,Noturno,31
+Ensino Superior - Graduação Regular,IE10,Física - Licenciatura,Noturno,24
+Ensino Superior - Graduação Regular,IE11,Química - Bacharelado,Diurno,18
+Ensino Superior - Graduação Regular,IE13,Física - Licenciatura,Diurno,23
+Ensino Superior - Graduação Regular,IE14,Física - Bacharelado,Diurno,12
+Ensino Superior - Graduação Regular,IE17,Engenharia de Software,Vespertino/Noturno,44
+Ensino Superior - Graduação Regular,IE18,Matemática Pura e Aplicada,Diurno,8
+Ensino Superior - Graduação Regular,IH01,Biblioteconomia,Matutino,26
+Ensino Superior - Graduação Regular,IH06,Serviço Social,Vespertino,31
+Ensino Superior - Graduação Regular,IH07-B,Geografia - Bacharelado,Matutino,8
+Ensino Superior - Graduação Regular,IH07-L,Geografia - Licenciatura,Matutino,18
+Ensino Superior - Graduação Regular,IH08,História,Matutino,45
+Ensino Superior - Graduação Regular,IH10,Ciências Sociais - Bacharelado,Matutino,27
+Ensino Superior - Graduação Regular,IH13,Letras - Língua e Literatura Portuguesa,Noturno,37
+Ensino Superior - Graduação Regular,IH14,Filosofia,Vespertino,30
+Ensino Superior - Graduação Regular,IH15,Letras - Língua e Literatura Inglesa,Vespertino,37
+Ensino Superior - Graduação Regular,IH16,Letras - Língua e Literatura Francesa,Vespertino,13
+Ensino Superior - Graduação Regular,IH20,História,Noturno,33
+Ensino Superior - Graduação Regular,IH21,Letras - Língua e Literatura Espanhola,Matutino,14
+Ensino Superior - Graduação Regular,IH22,Geografia - Licenciatura,Noturno,22
+Ensino Superior - Graduação Regular,IH23,Letras - Língua e Literatura Portuguesa,Vespertino,45
+Ensino Superior - Graduação Regular,IH25,Arquivologia,Noturno,23
+Ensino Superior - Graduação Regular,IH26,Serviço Social,Noturno,20
+Ensino Superior - Graduação Regular,IH27,Comunicação Social - Jornalismo,Diurno,34
+Ensino Superior - Graduação Regular,IH28,Música,Noturno,17
+Ensino Superior - Graduação Regular,IH29,Letras - Língua e Literatura Japonesa,Noturno,16
+Ensino Superior - Graduação Regular,IH30,Artes Visuais,Matutino,18
+Ensino Superior - Graduação Regular,IH31,Artes Visuais,Noturno,13
+Ensino Superior - Graduação Regular,IH32,Letras - Língua Brasileira de Sinais/LIBRAS,Vespertino,6
+Ensino Superior - Graduação Regular,IH39,Relações Públicas,Diurno,25
+Ensino Superior-Grad.Regular-Benjamin Constant,IN01,Administração,Diurno,9
+Ensino Superior-Grad.Regular-Benjamin Constant,IN02,Pedagogia,Diurno,12
+Ensino Superior-Grad.Regular-Benjamin Constant,IN03,Antropologia,Diurno,1
+Ensino Superior-Grad.Regular-Benjamin Constant,IN05,Letras - Língua e Literatura Portuguesa e Língua e Literatura Espanhola,Diurno,3
+Ensino Superior-Grad.Regular-Benjamin Constant,IN06,Ciências - Biologia e Química,Diurno,5
+Ensino Superior-Grad.Regular-Benjamin Constant,IN07,Ciências Agrárias e do Ambiente,Diurno,5
+Ensino Superior-Grad.Regular-Coari,IS01,Nutrição,Diurno,9
+Ensino Superior-Grad.Regular-Coari,IS02,Biotecnologia,Diurno,7
+Ensino Superior-Grad.Regular-Coari,IS03,Fisioterapia,Diurno,12
+Ensino Superior-Grad.Regular-Coari,IS04,Enfermagem,Diurno,21
+Ensino Superior-Grad.Regular-Coari,IS05,Ciências - Matemática e Física,Vespertino/Noturno,22
+Ensino Superior-Grad.Regular-Coari,IS06,Ciências - Biologia e Química,Diurno,15
+Ensino Superior-Grad.Regular-Humaitá,IA01,Agronomia,Diurno,5
+Ensino Superior-Grad.Regular-Humaitá,IA02,Engenharia Ambiental,Diurno,3
+Ensino Superior-Grad.Regular-Humaitá,IA03,Ciências - Biologia e Química,Diurno,8
+Ensino Superior-Grad.Regular-Humaitá,IA04,Pedagogia,Diurno,11
+Ensino Superior-Grad.Regular-Humaitá,IA05,Letras - Língua Portuguesa e Língua Inglesa,Diurno,8
+Ensino Superior-Grad.Regular-Humaitá,IA06,Ciências - Matemática e Física,Diurno,2
+Ensino Superior-Grad.Regular-Itacoatiara,IT01,Sistemas de Informação,Noturno,19
+Ensino Superior-Grad.Regular-Itacoatiara,IT02,Farmácia,Diurno,18
+Ensino Superior-Grad.Regular-Itacoatiara,IT03,Engenharia de Produção,Diurno,17
+Ensino Superior-Grad.Regular-Itacoatiara,IT04,Ciências - Matemática e Física,Noturno,12
+Ensino Superior-Grad.Regular-Itacoatiara,IT05,Ciências - Química e Biologia,Integral (Matutino e Vespertino),12
+Ensino Superior-Grad.Regular-Itacoatiara,IT06,Química Industrial,Diurno,11
+Ensino Superior-Grad.Regular-Itacoatiara,IT16,Engenharia de Software,Diurno,25
+Ensino Superior-Grad.Regular-Itacoatiara,IT17,Engenharia Sanitária,Diurno,12
+Ensino Superior-Grad.Regular-Itacoatiara,IT18,Agronomia,Diurno,17
+Ensino Superior-Grad.Regular-Itacoatiara,IT19,Pedagogia,Noturno,9
+Ensino Superior-Grad.Regular-Parintins,IP01,Administração,Noturno,35
+Ensino Superior-Grad.Regular-Parintins,IP02,Comunicação Social - Jornalismo,Noturno,14
+Ensino Superior-Grad.Regular-Parintins,IP03,Educação Física,Diurno,32
+Ensino Superior-Grad.Regular-Parintins,IP04,Pedagogia,Matutino,30
+Ensino Superior-Grad.Regular-Parintins,IP05,Serviço Social,Diurno,24
+Ensino Superior-Grad.Regular-Parintins,IP06,Zootecnia,Diurno,31
+Ensino Superior-Grad.Regular-Parintins,IP07,Artes Visuais,Noturno,15

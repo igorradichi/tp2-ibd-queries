@@ -1,0 +1,336 @@
+ID_DISCENTE,SEXO,ESTADO_CIVIL,DATA_NASCIMENTO,RACA_COR,DEFICIENCIA,NATURALIDADE,UF_NATURALIDADE,DESCR_BAIRRO,CIDADE_END,UF_CIDADE_END,FORMA_INGRESSO,COD_CURSO,CURSO,ANO_INGRESSO,PERIODO_INGRESSO
+125360,M,Casado(a),20/02/1985,Negra,,CRUZEIRO DO SUL,AC,AEROPORTO VELHO,CRUZEIRO DO SUL,AC,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2017,1
+138417,M,Solteiro(a),13/03/1980,Amarela,,ALAGOA NOVA,PB,MONTE CASTELO,TEFE,AM,Processo Seletivo Mestrado,PPG-FILO-M,Mestrado Profissional em Filosofia,2019,1
+140986,M,Solteiro(a),31/03/1979,Branca,,ENVIRA,AM,OLARIA,TEFE,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2019,2
+30050,M,Solteiro(a),14/04/1980,Branca,,TEFE,AM,SAO FRANCISCO,TEFE,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+53228,F,Solteiro(a),14/05/1990,Parda,,TEFE,AM,SAO FRANCISCO,TEFE,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2019,2
+69178,F,Solteiro(a),28/04/1993,Não Declarada,,COARI,AM,GM3,TABATINGA,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2018,1
+134173,M,Casado(a),29/07/1985,Branca,,SAO SEBASTIAO DO TOCANTINS,TO,CACHOEIRINHA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+23879,M,Solteiro(a),06/02/1987,Branca,,MANAUS,AM,CACHOEIRINHA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+30050,M,Solteiro(a),14/04/1980,Branca,,TEFE,AM,MIGUEL QUIRINO,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+68809,M,Solteiro(a),21/11/1989,Negra,,MAUES,AM,CACHOEIRINHA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+68809,M,Solteiro(a),21/11/1989,Negra,,MAUES,AM,CACHOEIRINHA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+70958,M,Casado(a),24/10/1973,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,AREOPORTO,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+70958,M,Casado(a),24/10/1973,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,AREAL,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+127533,M,Solteiro(a),04/10/1983,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,DABURA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+71526,M,Solteiro(a),24/08/1971,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,BOA ESPERANCA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+71526,M,Solteiro(a),24/08/1971,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,BOA ESPERANCA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+134192,F,Solteiro(a),30/04/1985,Indígena,,SAO GABRIEL DA CACHOEIRA,AM,CACHOEIRINHA,SAO GABRIEL DA CACHOEIRA,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+141011,M,Solteiro(a),28/11/1977,Parda,,SANTO ANTONIO DO ICA,AM,SAO FRANCISCO,SANTO ANTONIO DO ICA,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+67025,M,Casado(a),20/07/1979,Branca,,SAO PAULO,SP,DISTRITO,PRESIDENTE FIGUEIREDO,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+91752,F,Solteiro(a),23/07/1995,Branca,Sem Deficiência,PARINTINS,AM,ITAUNA I,PARINTINS,AM,Processo Seletivo Mestrado,PPG-ENF-M,Mestrado em Enfermagem,2019,2
+128151,M,Solteiro(a),03/01/1986,Branca,,CAPANEMA,PA,CASTANHEIRA,PARINTINS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,2
+86622,M,Casado(a),11/03/1986,Branca,,NHAMUNDA,AM,DJARD VIEIRA,PARINTINS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+73539,M,Solteiro(a),19/09/1992,Branca,,MANAUS,AM,SANTA RITA DE CASSIA,PARINTINS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+102461,M,Solteiro(a),15/03/1996,Negra,,BOA VISTA DO RAMOS,AM,SAO JOSE OPERARIO,PARINTINS,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+78837,M,Solteiro(a),22/09/1993,Amarela,,PARINTINS,AM,SAO BENEDITO,PARINTINS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+62707,M,Solteiro(a),10/04/1981,Parda,,NHAMUNDA,AM,ITAUNA II,PARINTINS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2018,1
+51638,F,Solteiro(a),16/08/1973,Parda,,PARINTINS,AM,PALMARES,PARINTINS,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+102431,F,Solteiro(a),27/11/1995,Parda,Sem Deficiência,ARAGUARI,MG,ADRIANPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+133006,M,Solteiro(a),04/12/1985,Negra,Sem Deficiência,RIO DE JANEIRO,RJ,CIDADE NOVA 02,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+133006,M,Solteiro(a),04/12/1985,Negra,Sem Deficiência,RIO DE JANEIRO,RJ,CIDADE NOVA II,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+120176,M,Solteiro(a),11/08/1977,Branca,Sem Deficiência,RIBEIRAO PRETO,SP,ADRIANOPOLIS,MANAUS,AM,Processo Seletivo Doutorado,PPG-ZOO-D,Doutorado em Zoologia,2017,1
+93004,F,Solteiro(a),16/01/1995,Parda,Sem Deficiência,TERESINA,PI,AMAZONINO MENDES,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-M,Mestrado em Enfermagem,2018,2
+106110,M,Solteiro(a),01/04/1991,Parda,Sem Deficiência,ITAITUBA,PA,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2019,1
+99460,F,Solteiro(a),14/01/1996,Branca,Sem Deficiência,BRASILIA,DF,PARQUE DEZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2018,2
+92900,M,Solteiro(a),30/06/1994,Branca,Sem Deficiência,ITAPIRANGA,AM,VILA PRATA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+98893,F,Solteiro(a),06/11/1995,Branca,Sem Deficiência,MANAUS,AM,CIDADE NOVA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-BIOT-M,Mestrado em Biotecnologia,2019,1
+94313,F,Solteiro(a),25/10/1995,Branca,Sem Deficiência,MANAUS,AM,SO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+134197,F,Solteiro(a),01/07/1992,Branca,Sem Deficiência,MANAUS,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2018,2
+94853,F,Solteiro(a),16/06/1996,Branca,Sem Deficiência,MANAUS,AM,PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2018,2
+105943,M,Solteiro(a),20/10/1996,Branca,Sem Deficiência,MANAUS,AM,SAO JOSE OPERARIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-HIP-M,Mestrado em História -  Política,2019,1
+102617,F,Solteiro(a),22/02/1995,Branca,Sem Deficiência,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-HIP-M,Mestrado em História -  Política,2019,1
+101224,F,Solteiro(a),03/09/1995,Branca,Sem Deficiência,MANAUS,AM,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+58632,M,Solteiro(a),09/08/1990,Negra,Sem Deficiência,MANAUS,AM,COLONIA ANTONIO ALEIXO,MANAUS,AM,Processo Seletivo Doutorado,PPG-FIS-D,Doutorado em Física,2016,2
+102054,F,Casado(a),12/02/1969,Parda,Sem Deficiência,COARI,AM,COROADO III,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2019,1
+91203,F,Casado(a),05/09/1991,Parda,Sem Deficiência,MANAUS,AM,COLONIA TERRA NOVA 3,MANAUS,AM,PS DOUTORADO-AC (Ampla Concorrência),PPG-BIO-D,Doutorado em Biodiversidade e Biotecnologia da Rede Bionorte,2017,1
+37168,F,Casado(a),05/06/1983,Parda,Sem Deficiência,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+91573,F,Casado(a),15/11/1987,Parda,Sem Deficiência,MANAUS,AM,NOVO ISRAEL,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2018,1
+97141,F,Solteiro(a),30/10/1980,Parda,Sem Deficiência,BENJAMIN CONSTANT,AM,RAIZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2018,1
+45852,M,Solteiro(a),27/03/1989,Parda,Sem Deficiência,COARI,AM,FLORES,MANAUS,AM,Processo Seletivo Doutorado,PPG-BIOT-D,Doutorado em Biotecnologia,2016,1
+102071,M,Solteiro(a),27/10/1995,Parda,Sem Deficiência,MANAUS,AM,COMPENSA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+102568,F,Solteiro(a),19/04/1996,Parda,Sem Deficiência,MANAUS,AM,PRACA 14 DE JANEIRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIFA-M,Mestrado em Ciências Florestais e Ambientais,2019,1
+106801,M,Solteiro(a),03/04/1997,Parda,Sem Deficiência,MANAUS,AM,CIDADE NOVA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2020,1
+94113,F,Solteiro(a),17/07/1995,Parda,Sem Deficiência,MANAUS,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+94029,F,Solteiro(a),15/10/1995,Parda,Sem Deficiência,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2018,2
+98638,F,Solteiro(a),27/08/1997,Parda,Sem Deficiência,MANAUS,AM,SANTA ETELVINA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,2
+94901,F,Solteiro(a),25/07/1994,Parda,Sem Deficiência,MANAUS,AM,SAO LAZARO,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+93002,M,Solteiro(a),07/06/1995,Parda,Sem Deficiência,MANAUS,AM,CACHOEIRINHA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-M,Mestrado em Enfermagem,2018,2
+72259,F,Solteiro(a),10/04/1992,Parda,Sem Deficiência,MANAUS,AM,LAGO AZUL,MANAUS,AM,Processo Seletivo Mestrado,PPG-ODO-M,Mestrado em Odontologia,2019,1
+101393,F,Solteiro(a),22/04/1996,Parda,Sem Deficiência,MANAUS,AM,NOVO ISRAEL,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+102017,F,Solteiro(a),05/05/1984,Parda,Sem Deficiência,PARINTINS,AM,CIDADE NOVA IV,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+105388,F,Solteiro(a),22/04/1987,Parda,Sem Deficiência,PORTO VELHO,RO,COMPENSA 3,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+91517,M,Solteiro(a),05/05/1995,Branca,Sem Deficiência,BELEM,PA,RAIZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+105387,M,Casado(a),20/02/1968,Branca,Sem Deficiência,MANACAPURU,AM,COMPENSA 1,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+99908,F,Solteiro(a),05/02/1996,Branca,Sem Deficiência,MANAUS,AM,CRESPO,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2019,1
+106358,F,Solteiro(a),15/06/1997,Branca,Sem Deficiência,MANAUS,AM,CRESPO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+106810,F,Solteiro(a),04/07/1997,Branca,Sem Deficiência,MANAUS,AM,NOVO ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+108217,M,Solteiro(a),05/11/1997,Parda,Sem Deficiência,ANAMA,AM,LAGO AZUL,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+83325,M,Solteiro(a),19/09/1994,Parda,Sem Deficiência,MANAUS,AM,ZUMBI DOS PALMARES,MANAUS,AM,Processo Seletivo Mestrado,PPG-FIS-M,Mestrado em Física,2019,1
+83325,M,Solteiro(a),19/09/1994,Parda,Sem Deficiência,MANAUS,AM,ZUMBI DOS PALMARES,MANAUS,AM,Processo Seletivo Mestrado,PPG-FIS-M,Mestrado em Física,2019,1
+108668,M,Solteiro(a),13/12/1996,Parda,Sem Deficiência,MANAUS,AM,COROADO,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2019,1
+48336,F,Solteiro(a),06/09/1989,Parda,Sem Deficiência,MANAUS,AM,COLONIA OLIVEIRA MACHADO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+106120,M,Solteiro(a),08/08/1995,Parda,Sem Deficiência,MANAUS,AM,ADRIANPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+109275,F,Solteiro(a),22/11/1997,Parda,Sem Deficiência,MANAUS,AM,CIDADE NOVA 4,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2019,2
+47474,M,Solteiro(a),21/07/1989,Parda,Sem Deficiência,MANAUS,AM,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-DES-M,Mestrado em Design,2018,2
+113851,M,Solteiro(a),01/03/1984,Branca,,CAMPO GRANDE,MS,PONTA NEGRA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIS-M,Mestrado em Ciências da Saúde,2018,1
+57080,F,Solteiro(a),18/12/1983,Negra,,CORUMBA,MS,ALVORADA 2,MANAUS,AM,Processo Seletivo Doutorado,PPG-ANS-D,Doutorado em Antropologia Social,2016,1
+138540,F,Solteiro(a),07/08/1986,Negra,,Mocuba,MOZ,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+139977,M,Solteiro(a),25/10/1983,Negra,,ZAVALA,MOZ,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,1
+139991,M,Solteiro(a),19/06/1989,Negra,,Tete / Tete,MOZ,JAPIIM,MANAUS,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+139981,M,Solteiro(a),10/02/1984,Negra,,TETE,MOZ,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,1
+138537,M,Solteiro(a),03/02/1994,Negra,,Nampula,MOZ,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIS-M,Mestrado em Ciências da Saúde,2019,1
+141001,F,Casado(a),24/06/1996,Branca,,ARAGUARI,MG,SAO PEDRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CA-M,Mestrado em Ciências Ambientais,2019,2
+134457,F,Casado(a),16/09/1980,Branca,,PONTE NOVA,MG,COLONIA SANTO ANTONIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+140043,M,Solteiro(a),25/06/1987,Negra,,PINHEIRO,MA,CIDADE DE DEUS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+47874,M,Solteiro(a),17/05/1982,Parda,,LAGO DA PEDRA,MA,MONTE DAS OLIVEIRAS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+138469,M,Solteiro(a),29/06/1985,Branca,,CARACAS,VEN,UNIAO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+110184,M,Solteiro(a),14/11/1976,Branca,,PELOTAS,RS,CENTRO,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+140013,M,Solteiro(a),03/09/1994,Parda,,CRUZ ALTA,RS,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2019,1
+140008,M,Solteiro(a),31/08/1996,Branca,,BOA VISTA,RR,MACEJANA,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2019,1
+65058,F,Solteiro(a),22/05/1992,Parda,,BOA VISTA,RR,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+63901,F,Solteiro(a),03/01/1973,Branca,,PORTO VELHO,RO,ALEIXO,MANAUS,AM,Processo Seletivo Doutorado,PPG-BIOT-D,Doutorado em Biotecnologia,2015,1
+112927,M,Solteiro(a),02/02/1989,Negra,,PIMENTA BUENO,RO,PRACA 14,MANAUS,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+63787,M,Casado(a),08/11/1990,Parda,,PORTO VELHO,RO,FLORES,MANAUS,AM,Processo Seletivo Doutorado,PPG-BIOT-D,Doutorado em Biotecnologia,2016,1
+91532,M,Uniao Estavel,05/03/1979,Branca,,RIO DE JANEIRO,RJ,ADRIANOPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ANS-M,Mestrado em Antropologia Social,2019,1
+142059,M,Casado(a),22/06/1978,Negra,,NOVA IGUACU,RJ,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-DIR-M,Mestrado em Direito,2019,2
+140040,M,Casado(a),21/07/1986,Negra,,RIO DE JANEIRO,RJ,COMPENSA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+73614,M,Solteiro(a),13/04/1992,Branca,,MARINGA,PR,LIRIO DO VALLE II,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+24564,M,Casado(a),07/07/1968,Parda,,MARINGA,PR,NOVA CIDADE,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2018,2
+123731,F,Solteiro(a),13/07/1991,Negra,,Santo Domingo,,COROADO,MANAUS,AM,Processo Seletivo Doutorado,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,2017,1
+113011,F,Casado(a),23/06/1983,Branca,,BARIRI,SP,ALEIXO,MANAUS,AM,Processo Seletivo Doutorado,PPG-CASA-D,Doutorado em Ciências do Ambiente e Sustentabilidade na Amazônia,2018,1
+138577,M,Casado(a),24/11/1978,Branca,,SAO PAULO,SP,ADRIANAPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+74536,M,Solteiro(a),27/08/1993,Branca,,SAO CARLOS,SP,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ANS-M,Mestrado em Antropologia Social,2019,1
+132113,F,Casado(a),18/12/1981,Amarela,,SAO PAULO,SP,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2018,1
+41975,F,Casado(a),28/11/1987,Parda,,ARACAJU,SE,SAO GERALDO,MANAUS,AM,Processo Seletivo Doutorado,PPG-CARP-D,Doutorado em Ciência Animal e Recursos Pesqueiros,2014,1
+124878,M,Solteiro(a),20/09/1983,Indígena,,IQUITOS,PER,ALEIXO,MANAUS,AM,Processo Seletivo Doutorado,PPG-ATR-D,Doutorado em Agronomia Tropical,2017,1
+60135,M,Solteiro(a),18/08/1989,Branca,,RECIFE,PE,CIDADE NOVA I,MANAUS,AM,Processo Seletivo Mestrado,PPG-HIP-M,Mestrado em História -  Política,2017,1
+59212,F,Casado(a),19/06/1965,Parda,,ALTINHO,PE,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+66117,F,Solteiro(a),14/11/1990,Parda,,GARANHUNS,PE,SAO FRANCISCO,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+66117,F,Solteiro(a),14/11/1990,Parda,,GARANHUNS,PE,SAO FRANCISCO,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+79147,F,Casado(a),07/11/1988,Branca,,CAMPINA GRANDE,PB,JAPIIM 2,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+79147,F,Casado(a),07/11/1988,Branca,,CAMPINA GRANDE,PB,JAPIIM 2,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+140455,F,Casado(a),05/12/1967,Branca,,INHANGAPI,PA,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-MP,Mestrado em Enfermagem no Contexto Amazônico,2019,1
+138554,M,Solteiro(a),06/10/1961,Branca,,ALENQUER,PA,SAO JOSE,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+84301,M,Solteiro(a),06/12/1994,Branca,,ALTAMIRA,PA,Coroado,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+141017,F,Solteiro(a),26/12/1990,Branca,,BELEM,PA,LIRIO DO VALE,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+138467,F,Solteiro(a),05/10/1978,Branca,,CAPANEMA,PA,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+139810,F,Solteiro(a),24/04/1994,Branca,,ORIXIMINA,PA,RAIZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2019,1
+66103,M,Casado(a),24/12/1991,Negra,,SANTAREM,PA,SAO JOSE OPERARIO 3,MANAUS,AM,Processo Seletivo Mestrado,PPG-SOC-M,Mestrado em Sociologia,2017,2
+138435,M,Solteiro(a),07/05/1996,Negra,,BELEM,PA,PARQUE 10 DE NOVEMBRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2019,1
+83893,F,Solteiro(a),13/07/1992,Amarela,,ORIXIMINA,PA,COROADO I,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+134492,F,Solteiro(a),18/03/1995,Amarela,,SANTAREM,PA,SAO JOSE 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+20522,M,Solteiro(a),10/07/1986,Parda,,BELEM,PA,LAGOA AZUL,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+102027,M,Solteiro(a),28/05/1994,Parda,,JURUTI,PA,CIDADE NOVA II,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+54343,F,Solteiro(a),31/03/1990,Parda,,MOCAJUBA,PA,TANCREDO NEVES,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+45206,F,Solteiro(a),22/07/1976,Parda,,SANTAREM,PA,NOVA CIDADE,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2018,1
+67598,M,Solteiro(a),21/08/1991,Parda,,SANTAREM,PA,CAMPOS ELISEOS - PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+39230,F,Solteiro(a),05/10/1983,Não Declarada,,SANTAREM,PA,COMPENSA II,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,2
+139987,M,Solteiro(a),20/05/1983,Negra,,Ouest,HTI,COROADO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+142057,M,Casado(a),31/03/1976,Branca,,BRASILIA,DF,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-DIR-M,Mestrado em Direito,2019,2
+81213,F,Casado(a),05/09/1978,Branca,,PARAMBU,CE,PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+76839,M,Casado(a),05/08/1981,Branca,,VARZEA ALEGRE,CE,PARQUE 10 DE NOVEMBRO,MANAUS,AM,Processo Seletivo Doutorado,PPG-ENE-D,Doutorado em Engenharia Elétrica,2020,1
+98986,F,Solteiro(a),26/10/1995,Branca,,FORTALEZA,CE,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2019,2
+74432,M,Solteiro(a),09/10/1992,Parda,,FORTALEZA,CE,ADRIANOPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2019,1
+59520,F,Uniao Estavel,18/06/1971,Branca,,IPIXUNA,AM,SAO SEBASTIAO,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+102372,F,Divorciado(a),07/02/1974,Branca,,CAREIRO,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+147143,F,Divorciado(a),26/10/1966,Branca,,MANAUS,AM,CHAPADA,MANAUS,AM,Processo Seletivo Doutorado,PPG-EDA-D,Doutorado em Educação na Amazônia,2020,1
+142061,F,Divorciado(a),28/11/1975,Branca,,MANAUS,AM,ADRIANOPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-DIR-M,Mestrado em Direito,2019,2
+61983,F,Casado(a),13/09/1975,Branca,,ATALAIA DO NORTE,AM,LAGO AZUL,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+47222,F,Casado(a),04/09/1985,Branca,,MANAUS,AM,PARQUE DEZ,MANAUS,AM,Processo Seletivo Doutorado,PPG-BIOT-D,Doutorado em Biotecnologia,2015,1
+64801,F,Casado(a),18/03/1992,Branca,,MANAUS,AM,FLORES,MANAUS,AM,Processo Seletivo Doutorado,PPG-ATR-D,Doutorado em Agronomia Tropical,2017,1
+41811,F,Casado(a),31/03/1968,Branca,,MANAUS,AM,PARQUE DAS LARANJEIRAS,MANAUS,AM,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2018,2
+41811,F,Casado(a),31/03/1968,Branca,,MANAUS,AM,,MANAUS,AM,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2018,2
+98499,F,Casado(a),02/05/1990,Branca,,MANAUS,AM,VILA DA PRATA,MANAUS,AM,Processo Seletivo Doutorado,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,2017,1
+138441,F,Casado(a),15/04/1970,Branca,,MANAUS,AM,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2019,1
+142995,F,Casado(a),09/08/1977,Branca,,MANAUS,AM,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2020,1
+81520,M,Casado(a),20/02/1974,Branca,,MANAUS,AM,TARUMA-ACU,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+134741,M,Casado(a),09/01/1984,Branca,,MANAUS,AM,DA PAZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,2
+75309,F,Casado(a),18/01/1993,Branca,,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+134458,F,Casado(a),12/08/1996,Branca,,MANAUS,AM,ALVORADA 1,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+138539,M,Casado(a),30/11/1976,Branca,,MANAUS,AM,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+66936,M,Casado(a),27/04/1978,Branca,,MANAUS,AM,DOM PEDRO 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-FILO-M,Mestrado Profissional em Filosofia,2019,1
+58977,M,Casado(a),14/07/1988,Branca,,MANAUS,AM,PARQUE DEZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+138595,M,Solteiro(a),04/02/1988,Branca,,COARI,AM,COROADO II,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+93380,F,Solteiro(a),01/07/1995,Branca,,EIRUNEPE,AM,SANTO AGOSTINHO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+132120,F,Solteiro(a),21/10/1983,Branca,,MANACAPURU,AM,SAO LAZARO,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,1
+48935,F,Solteiro(a),14/11/1988,Branca,,MANACAPURU,AM,DUQUE DE CAXIAS,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+72491,F,Solteiro(a),04/02/1988,Branca,,MANAUS,AM,SAO LZARO,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2015,1
+43999,F,Solteiro(a),08/11/1988,Branca,,MANAUS,AM,JAPIIM,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+43999,F,Solteiro(a),08/11/1988,Branca,,MANAUS,AM,SÃO JOSÉ,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+48490,M,Solteiro(a),13/06/1988,Branca,,MANAUS,AM,CIDADE NOVA IV,MANAUS,AM,Processo Seletivo Doutorado,PPG-MAT-D,Doutorado em Matemática,2015,1
+58053,M,Solteiro(a),07/07/1972,Branca,,MANAUS,AM,COROADO,MANAUS,AM,Processo Seletivo Doutorado,PPG-CASA-D,Doutorado em Ciências do Ambiente e Sustentabilidade na Amazônia,2017,1
+59346,M,Solteiro(a),01/01/1990,Branca,,MANAUS,AM,COROADO,MANAUS,AM,Processo Seletivo Doutorado,PPG-CASA-D,Doutorado em Ciências do Ambiente e Sustentabilidade na Amazônia,2017,1
+97918,F,Solteiro(a),27/05/1980,Branca,,MANAUS,AM,SAO GERALDO,MANAUS,AM,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2017,1
+91851,F,Solteiro(a),03/05/1992,Branca,,MANAUS,AM,NOVA ESPERANCA,MANAUS,AM,Processo Seletivo Doutorado,PPG-IFAR-D,Doutorado em Inovação Farmacêutica,2016,2
+61434,M,Solteiro(a),05/04/1990,Branca,,MANAUS,AM,SAO JOSE I,MANAUS,AM,Processo Seletivo Doutorado,PPG-FIS-D,Doutorado em Física,2017,1
+36524,M,Solteiro(a),18/11/1975,Branca,,MANAUS,AM,SANTO AGOSTINHO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2019,1
+141010,F,Solteiro(a),21/12/1974,Branca,,MANAUS,AM,TARUMA,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+74082,M,Solteiro(a),28/03/1993,Branca,,MANAUS,AM,CIDADE NOVA 5,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,1
+99262,M,Solteiro(a),23/07/1995,Branca,,MANAUS,AM,NOVO ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2019,1
+54060,M,Solteiro(a),12/10/1988,Branca,,MANAUS,AM,CIDADE NOVA 3,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+53198,M,Solteiro(a),23/12/1989,Branca,,MANAUS,AM,SAO RAIMUNDO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+138576,M,Solteiro(a),16/01/1996,Branca,,MANAUS,AM,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+139998,F,Solteiro(a),07/08/1996,Branca,,MANAUS,AM,TANCREDO NEVES,MANAUS,AM,Processo Seletivo Mestrado,PPG-BIOT-M,Mestrado em Biotecnologia,2019,1
+75241,F,Solteiro(a),06/12/1993,Branca,,MANAUS,AM,SAO JOSE OPERARIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-BIOT-M,Mestrado em Biotecnologia,2018,1
+72984,M,Solteiro(a),05/10/1992,Branca,,MANAUS,AM,CIDADE NOVA 5,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+102120,F,Solteiro(a),17/10/1993,Branca,,MANAUS,AM,MONTE DAS OLIVEIRAS,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+94122,F,Solteiro(a),22/10/1994,Branca,,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+100142,F,Solteiro(a),20/02/1996,Branca,,MANAUS,AM,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+73913,F,Solteiro(a),15/11/1992,Branca,,MANAUS,AM,COLONIA SANTO ANTONIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+74287,M,Solteiro(a),01/02/1994,Branca,,MANAUS,AM,JAPIIM 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+73539,M,Solteiro(a),19/09/1992,Branca,,MANAUS,AM,NOVA CIDADE,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+64007,M,Solteiro(a),26/01/1992,Branca,,MANAUS,AM,PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2019,1
+72606,F,Solteiro(a),05/04/1992,Branca,,MANAUS,AM,PARQUE 10 DE NOVEMBRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2019,2
+82321,F,Solteiro(a),23/11/1993,Branca,,MANAUS,AM,NOVA ESPERANCA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+102403,F,Solteiro(a),04/08/1994,Branca,,MANAUS,AM,PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+102031,F,Solteiro(a),12/11/1996,Branca,,MANAUS,AM,CIDADE NOVA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+102030,F,Solteiro(a),16/10/1996,Branca,,MANAUS,AM,TANCREDO NEVES,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+125381,F,Solteiro(a),15/12/1990,Branca,,MANAUS,AM,PARQUE 10 DE NOVEMBRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ODO-M,Mestrado em Odontologia,2019,1
+105738,M,Solteiro(a),01/12/1996,Branca,,MANAUS,AM,NOVA CIDADE,MANAUS,AM,Processo Seletivo Mestrado,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,2019,1
+59484,M,Solteiro(a),23/01/1992,Branca,,MANAUS,AM,SAO JOSE OPERARIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+47835,M,Solteiro(a),23/02/1989,Branca,,MANAUS,AM,PONTA NEGRA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIR-M,Mestrado Profissional em Cirurgia,2018,2
+138470,F,Solteiro(a),24/12/1995,Branca,,MANAUS,AM,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-ZOO-M,Mestrado em Zoologia,2019,1
+82636,F,Solteiro(a),20/12/1993,Branca,,MANAUS,AM,D. PEDRO,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2019,1
+47459,M,Solteiro(a),19/11/1988,Branca,,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-DIR-M,Mestrado em Direito,2019,2
+23879,M,Solteiro(a),06/02/1987,Branca,,MANAUS,AM,DA PAZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2018,2
+134494,F,Solteiro(a),29/10/1993,Branca,,MANAUS,AM,TANCREDO NEVES,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+93578,M,Solteiro(a),29/08/1995,Branca,,MANAUS,AM,ALVORADA,MANAUS,AM,Processo Seletivo Mestrado,PPG-DES-M,Mestrado em Design,2018,2
+43328,F,Solteiro(a),06/06/1988,Branca,,MANAUS,AM,SANTA LUZIA,MANAUS,AM,Processo Seletivo Mestrado,PPG-DES-M,Mestrado em Design,2017,2
+53131,F,Solteiro(a),18/05/1990,Branca,,MANAUS,AM,DOM PEDRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-DES-M,Mestrado em Design,2018,2
+134195,M,Solteiro(a),29/08/1988,Branca,,MANAUS,AM,CIDADE NOVA 1,MANAUS,AM,Processo Seletivo Mestrado,PPG-DES-M,Mestrado em Design,2018,2
+61490,M,Solteiro(a),23/07/1975,Branca,,PARINTINS,AM,COROADO I,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+128163,M,Solteiro(a),18/12/1988,Branca,,PARINTINS,AM,COMPENSA,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+68872,M,Solteiro(a),12/10/1991,Branca,,PARINTINS,AM,PRACA 14 DE JANEIRO,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2019,1
+104799,M,Casado(a),13/01/1982,Negra,,CANUTAMA,AM,ALVORADA I,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,2
+83483,F,Casado(a),04/10/1994,Negra,,MANAUS,AM,CIDADE NOVA I,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+87014,M,Solteiro(a),21/01/1977,Negra,,MANAUS,AM,CIDADE NOVA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-SCA-M,Mestrado em Sociedade e Cultura na Amazônia,2019,1
+98889,F,Solteiro(a),26/07/1995,Negra,,MANAUS,AM,CIDADE DE DEUS,MANAUS,AM,Processo Seletivo Mestrado,PPG-BIOT-M,Mestrado em Biotecnologia,2018,1
+84693,F,Solteiro(a),16/11/1992,Negra,,MANAUS,AM,JOAO PAULO,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2018,2
+138355,F,Solteiro(a),12/09/1980,Negra,,MANAUS,AM,REDENCAO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+49433,F,Solteiro(a),11/04/1988,Negra,,PRESIDENTE FIGUEIREDO,AM,NOVO ISRAEL,MANAUS,AM,Processo Seletivo Mestrado,PPG-ANS-M,Mestrado em Antropologia Social,2019,1
+134737,F,Casado(a),31/01/1967,Amarela,,MANACAPURU,AM,SAO JOSE,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,2
+138575,F,Casado(a),16/05/1987,Amarela,,MANAUS,AM,AJURICABA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+91195,M,Casado(a),08/06/1983,Amarela,,MANAUS,AM,DOM PEDRO I,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIS-M,Mestrado em Ciências da Saúde,2018,1
+139798,M,Casado(a),14/06/1965,Amarela,,PARINTINS,AM,CACHOEIRINHA,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2019,1
+138558,F,Solteiro(a),27/12/1976,Amarela,,BERURI,AM,TARUMA,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+95604,F,Solteiro(a),06/07/1974,Amarela,,MANACAPURU,AM,PLANALTO,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+139809,F,Solteiro(a),09/01/1996,Amarela,,MANACAPURU,AM,COROADO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2019,1
+95935,M,Solteiro(a),03/11/1988,Amarela,,MANAUS,AM,NOSSA SENHORA DAS GRACAS,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2016,1
+59026,F,Solteiro(a),09/05/1991,Amarela,,MANAUS,AM,DOM PEDRO I,MANAUS,AM,Processo Seletivo Doutorado,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,2017,1
+83183,F,Solteiro(a),02/11/1994,Amarela,,MANAUS,AM,PLANALTO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+93387,F,Solteiro(a),05/01/1996,Amarela,,MANAUS,AM,NOVO ISRAEL II,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+103495,M,Solteiro(a),26/06/1972,Amarela,,TEFE,AM,NOVA CIDADE,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+140042,M,Uniao Estavel,04/02/1973,Parda,,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+38084,M,Outros,02/10/1985,Parda,,MANAUS,AM,NOVO ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+135862,F,Divorciado(a),30/09/1989,Parda,,MANACAPURU,AM,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+48815,M,Casado(a),24/07/1983,Parda,,CODAJAS,AM,SAO JORGE,MANAUS,AM,Processo Seletivo Mestrado,PPG-FILO-M,Mestrado Profissional em Filosofia,2018,1
+33260,F,Casado(a),24/09/1974,Parda,,ITACOATIARA,AM,PONTA NEGRA,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+132887,M,Casado(a),03/09/1976,Parda,,ITACOATIARA,AM,SAO JOSE OD OPERARIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+38650,F,Casado(a),09/09/1978,Parda,,MANAUS,AM,SAO JOSE II,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+23958,M,Casado(a),12/03/1987,Parda,,MANAUS,AM,SAO JOSE I,MANAUS,AM,Processo Seletivo Doutorado,PPG-INF-D,Doutorado em Informática,2018,2
+23958,M,Casado(a),12/03/1987,Parda,,MANAUS,AM,DA PAZ,MANAUS,AM,Processo Seletivo Doutorado,PPG-INF-D,Doutorado em Informática,2018,2
+40930,F,Casado(a),16/01/1971,Parda,,MANAUS,AM,PQ 10,MANAUS,AM,Processo Seletivo Doutorado,PPG-SCA-D,Doutorado em Sociedade e Cultura na Amazônia,2017,1
+141006,F,Casado(a),28/12/1968,Parda,,MANAUS,AM,COMPENSA,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+139807,M,Casado(a),26/10/1977,Parda,,MANAUS,AM,PARQUE 10,MANAUS,AM,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2019,1
+61215,M,Casado(a),16/11/1991,Parda,,MANAUS,AM,REDENCAO,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2020,1
+61215,M,Casado(a),16/11/1991,Parda,,MANAUS,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2020,1
+32919,M,Casado(a),03/06/1978,Parda,,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,1
+53912,M,Casado(a),07/10/1990,Parda,,MANAUS,AM,COMPENSA 3,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+53912,M,Casado(a),07/10/1990,Parda,,MANAUS,AM,Santo Agostinho,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+53211,M,Casado(a),24/04/1987,Parda,,MANAUS,AM,SAO GERALDO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2019,1
+106182,F,Casado(a),17/04/1995,Parda,,MANAUS,AM,PARQUE  10,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+16699,F,Casado(a),28/02/1979,Parda,,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+37649,F,Casado(a),01/04/1984,Parda,,MANAUS,AM,PARQUE DEZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+22585,F,Casado(a),03/06/1984,Parda,,MANAUS,AM,ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+102887,F,Casado(a),15/11/1988,Parda,,MANAUS,AM,PARQUE DEZ DE NOVEMBRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-M,Mestrado em Enfermagem,2018,2
+102919,F,Casado(a),21/08/1994,Parda,,MANAUS,AM,CHAPADA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ODO-M,Mestrado em Odontologia,2019,1
+41500,F,Casado(a),30/12/1971,Parda,,MANAUS,AM,JAPIIM I,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+41500,F,Casado(a),30/12/1971,Parda,,MANAUS,AM,JAPIIM 1,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+40392,M,Casado(a),28/08/1969,Parda,,PARINTINS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Doutorado,PPG-ANS-D,Doutorado em Antropologia Social,2017,1
+141013,F,Casado(a),06/08/1987,Parda,,SAO SEBASTIAO DO UATUMA,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+72927,F,Casado(a),03/05/1989,Parda,,TAPAUA,AM,LIRIO DO VALE,MANAUS,AM,Processo Seletivo Mestrado,PPG-CIS-M,Mestrado em Ciências da Saúde,2018,1
+62956,F,Casado(a),31/12/1963,Parda,,TEFE,AM,LIRIO DO VALE 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2019,1
+64947,M,Solteiro(a),11/09/1992,Parda,,AUTAZES,AM,SAO JORGE,MANAUS,AM,Processo Seletivo Doutorado,PPG-ATR-D,Doutorado em Agronomia Tropical,2017,1
+56442,F,Solteiro(a),11/01/1991,Parda,,COARI,AM,ALVORADA,MANAUS,AM,PS DOUTORADO-AC (Ampla Concorrência),PPG-BIO-D,Doutorado em Biodiversidade e Biotecnologia da Rede Bionorte,2016,1
+140454,F,Solteiro(a),02/06/1975,Parda,,MANAQUIRI,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-MP,Mestrado em Enfermagem no Contexto Amazônico,2019,1
+98497,F,Solteiro(a),07/07/1981,Parda,,MANAUS,AM,NOSSA SENHORA DAS GRACAS,MANAUS,AM,Processo Seletivo Doutorado,PPG-BIOT-D,Doutorado em Biotecnologia,2016,1
+41240,F,Solteiro(a),01/02/1974,Parda,,MANAUS,AM,COROADO,MANAUS,AM,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2017,1
+38741,F,Solteiro(a),04/09/1986,Parda,,MANAUS,AM,CIDADE NOVA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+106581,F,Solteiro(a),12/03/1997,Parda,,MANAUS,AM,SAO JOSE OPERARIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-MAT-M,Mestrado em Matemática,2019,2
+108155,M,Solteiro(a),06/06/1995,Parda,,MANAUS,AM,NOVO ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2019,1
+53021,M,Solteiro(a),31/05/1990,Parda,,MANAUS,AM,TANCREDO NEVES,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,1
+94799,F,Solteiro(a),04/12/1994,Parda,,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PPG-BIOT-M,Mestrado em Biotecnologia,2019,1
+128170,F,Solteiro(a),03/01/1993,Parda,,MANAUS,AM,MONTE DAS OLIVEIRAS,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+136013,M,Solteiro(a),29/03/1998,Parda,,MANAUS,AM,LIRIO DO VALE II,MANAUS,AM,Processo Seletivo Mestrado,PPG-QUI-M,Mestrado em Química,2019,1
+49395,M,Solteiro(a),27/05/1988,Parda,,MANAUS,AM,JAPIIM I,MANAUS,AM,Processo Seletivo Mestrado,PPG-ANS-M,Mestrado em Antropologia Social,2018,1
+140049,F,Solteiro(a),30/04/1992,Parda,,MANAUS,AM,CIDADE NOVA 1,MANAUS,AM,Processo Seletivo Mestrado,PPG-IMU-M,Mestrado em Imunologia Básica e Aplicada,2019,1
+93428,F,Solteiro(a),24/04/1995,Parda,,MANAUS,AM,FLORES,MANAUS,AM,Processo Seletivo Mestrado,PPG-CFAR-M,Mestrado em Ciências Farmacêuticas,2018,2
+91539,M,Solteiro(a),11/06/1993,Parda,,MANAUS,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-HIC-M,Mestrado em História - Cultura,2019,1
+83748,M,Solteiro(a),23/09/1994,Parda,,MANAUS,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-PSIC-M,Mestrado em Psicologia,2018,2
+49387,F,Solteiro(a),02/03/1985,Parda,,MANAUS,AM,JAPIIM,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2018,2
+140734,F,Solteiro(a),05/08/1997,Parda,,MANAUS,AM,COLONIA TERRA NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ODO-M,Mestrado em Odontologia,2019,1
+38693,F,Solteiro(a),02/07/1987,Parda,,MANAUS,AM,SANTO AGOSTINHO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+43227,M,Solteiro(a),21/08/1988,Parda,,MANAUS,AM,ESTRADA DA PONTA NEGRA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2019,1
+36367,F,Solteiro(a),20/08/1976,Parda,,MANAUS,AM,CIDADE NOVA 1,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+36689,F,Solteiro(a),12/11/1974,Parda,,MANAUS,AM,PAZ,MANAUS,AM,Processo Seletivo Mestrado,PPG-FILO-M,Mestrado Profissional em Filosofia,2019,1
+73460,F,Solteiro(a),27/06/1993,Parda,,MANAUS,AM,PARQUE DAS LARANJEIRAS,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2020,1
+91430,M,Solteiro(a),14/05/1995,Parda,,MANAUS,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+140460,F,Solteiro(a),04/02/1982,Parda,,NOVA OLINDA DO NORTE,AM,CENTRO,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-MP,Mestrado em Enfermagem no Contexto Amazônico,2019,1
+141009,F,Solteiro(a),26/11/1980,Parda,,PARINTINS,AM,CACHOEIRINHA,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+134702,M,Solteiro(a),06/07/1988,Parda,,PARINTINS,AM,RAIZ,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2018,2
+60189,M,Solteiro(a),06/04/1990,Parda,,TEFE,AM,CIDADE NOVA,MANAUS,AM,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2016,1
+85437,M,Solteiro(a),30/12/1995,Parda,,URUCARA,AM,Dom Pedro I,MANAUS,AM,Processo Seletivo Mestrado,PPG-INF-M,Mestrado em Informática,2018,2
+70102,M,Casado(a),27/06/1980,Indígena,,CAREIRO,AM,SAO JOSE,MANAUS,AM,Processo Seletivo Mestrado,PPG-GEO-M,Mestrado em Geografia,2018,1
+141007,F,Solteiro(a),28/03/1980,Indígena,,BARCELOS,AM,SANTO ANTONIO,MANAUS,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,2
+28555,M,Solteiro(a),16/04/1985,Indígena,,MAUES,AM,NOVA ESPERANCA 2,MANAUS,AM,Processo Seletivo Mestrado,PPG-CARP-M,Mestrado em Ciência Animal e Recursos Pesqueiros,2019,1
+83484,F,Casado(a),03/02/1994,Não Declarada,,MANAUS,AM,NOVO ALEIXO,MANAUS,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2018,1
+98338,F,Solteiro(a),01/10/1990,Não Declarada,,MANAUS,AM,RAIZ,MANAUS,AM,Processo Seletivo Doutorado,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,2016,2
+23073,M,Solteiro(a),13/08/1973,Não Declarada,,MANAUS,AM,DISTRITO INDUSTRIAL I,MANAUS,AM,Processo Seletivo Mestrado,PPG-ECIM,Mestrado em Ensino de Ciências e Matemática,2018,1
+62303,F,Solteiro(a),03/02/1990,Não Declarada,,MAUES,AM,TARUMÃ-CAMPO SALES,MANAUS,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+73557,M,Solteiro(a),22/06/1993,Não Declarada,,MANAUS,AM,LIRIO DO VALE II,MANAUS,AM,Processo Seletivo Mestrado,PPG-ODO-M,Mestrado em Odontologia,2019,1
+73153,F,Solteiro(a),10/06/1993,Não Declarada,,MANAUS,AM,PETROPOLIS,MANAUS,AM,Processo Seletivo Mestrado,PROFNIT-MP,Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação,2019,1
+140458,F,Casado(a),27/11/1993,Negra,,SENADOR GUIOMARD,AC,TARUMA,MANAUS,AM,Processo Seletivo Mestrado,PPG-ENF-MP,Mestrado em Enfermagem no Contexto Amazônico,2019,1
+52533,M,Solteiro(a),02/04/1986,Negra,Sem Deficiência,LABREA,AM,DA FONTE,LABREA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+138502,M,Divorciado(a),05/07/1964,Parda,,PAUINI,AM,CENTRO,LABREA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+86433,F,Casado(a),30/10/1985,Branca,Sem Deficiência,PITANGUEIRAS,SP,IRACI,ITACOATIARA,AM,Processo Seletivo Mestrado,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,2019,1
+130097,F,Solteiro(a),02/05/1992,Branca,Sem Deficiência,CARAUARI,AM,IRACI,ITACOATIARA,AM,Processo Seletivo Mestrado,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,2018,2
+139795,F,Solteiro(a),17/02/1992,Branca,,ITACOATIARA,AM,COLONIA,ITACOATIARA,AM,Processo Seletivo Mestrado,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,2019,1
+85284,M,Solteiro(a),01/01/1994,Amarela,,ITACOATIARA,AM,TIRANDENTES,ITACOATIARA,AM,Processo Seletivo Mestrado,PPG-CTRA-M,Mestrado em Ciência e Tecnologia para Recursos Amazônicos,2019,1
+83504,F,Casado(a),10/12/1993,Branca,,MANAUS,AM,NOVO AMANHECER,IRANDUBA,AM,Processo Seletivo Mestrado,PPG-SES-M,Mestrado em Serviço Social e Sustentabilidade na Amazônia,2019,1
+99632,M,Solteiro(a),01/10/1994,Parda,Sem Deficiência,JI-PARANA,RO,SAO DOMINGOS SAVIO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+97047,M,Solteiro(a),02/09/1991,Branca,Sem Deficiência,HUMAITA,AM,NOVA ESPERANCA,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+101626,F,Solteiro(a),20/08/1978,Negra,Sem Deficiência,HUMAITA,AM,NOVO CENTENRIO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+96946,F,Solteiro(a),07/03/1982,Parda,Sem Deficiência,HUMAITA,AM,SAO FRANCISCO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+97043,M,Solteiro(a),25/02/1995,Parda,Sem Deficiência,LABREA,AM,SAO JOSE,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+138556,M,Casado(a),22/04/1963,Negra,,Magoé / Tete,MOZ,CENTRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-CA-M,Mestrado em Ciências Ambientais,2019,1
+138541,M,Casado(a),30/08/1976,Negra,,TETE,MOZ,SAO PEDRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+138538,M,Solteiro(a),10/09/1976,Negra,,Ancuabe,MOZ,CENTRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+138555,M,Solteiro(a),28/12/1989,Negra,,BEIRA,MOZ,CENTRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-CA-M,Mestrado em Ciências Ambientais,2019,1
+138536,F,Solteiro(a),20/06/1995,Indígena,,BOGOTÁ,COL,NOVA HUMAITA,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+114288,F,Casado(a),29/07/1981,Negra,,PORTO VELHO,RO,NOVA HUMAITA,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+56681,F,Casado(a),20/11/1990,Amarela,,JI-PARANA,RO,SAO DOMINGO SAVIO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+138504,F,Divorciado(a),16/10/1982,Branca,,MARECHAL CANDIDO RONDON,PR,SAO PEDRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+140999,F,Divorciado(a),11/02/1986,Branca,,SAO PAULO,SP,SAO PEDRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-CA-M,Mestrado em Ciências Ambientais,2019,2
+140012,F,Solteiro(a),13/06/1971,Parda,,POMBAL,PB,SAO PEDRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+146597,F,Solteiro(a),04/09/1986,Negra,,CAPANEMA,PA,CENTRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2020,1
+62251,M,Solteiro(a),17/09/1987,Branca,,APUI,AM,MORENA,HUMAITA,AM,Processo Seletivo Mestrado,PPG-CA-M,Mestrado em Ciências Ambientais,2018,2
+51654,F,Casado(a),19/12/1980,Negra,,HUMAITA,AM,SAO CRISTOVAO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+78593,F,Solteiro(a),31/05/1988,Negra,,HUMAITA,AM,SAO CRISTOVAO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+57749,F,Divorciado(a),09/06/1988,Parda,,MANICORE,AM,SAO PEDRO,HUMAITA,AM,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
+112927,M,Solteiro(a),02/02/1989,Negra,,PIMENTA BUENO,RO,CENTRO,EIRUNEPE,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,1
+140985,M,Casado(a),12/04/1983,Negra,,AXIXA DO TOCANTINS,TO,CENTRO,COARI,AM,Processo Seletivo Mestrado,PPG-ECAM-M,Mestrado Profissional em Rede Nacional para o Ensino de Ciências Ambientais,2019,2
+45965,F,Casado(a),17/10/1980,Parda,,COARI,AM,CENTRO,COARI,AM,Processo Seletivo Mestrado,PPG-ENP-M,Mestrado em Engenharia de Produção,2018,2
+52278,F,Solteiro(a),25/03/1979,Parda,,COARI,AM,CENTRO,COARI,AM,Processo Seletivo Mestrado,PPG-EDU-M,Mestrado em Educação,2019,1
+92592,F,Solteiro(a),02/02/1995,Parda,,COARI,AM,CHAGAS AGUIAR,COARI,AM,Processo Seletivo Mestrado,PPG-CEM-M,Mestrado em Ciência e Engenharia de Materiais,2018,2
+85658,M,Solteiro(a),25/08/1992,Parda,,CAREIRO,AM,ARMANDO MENDES,CAREIRO,AM,Processo Seletivo Mestrado,PPG-ATR-M,Mestrado em Agronomia Tropical,2019,2
+69034,M,Solteiro(a),06/03/1990,Amarela,,BENJAMIN CONSTANT,AM,COIMBRA,BENJAMIN CONSTANT,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+61983,F,Casado(a),13/09/1975,Branca,,ATALAIA DO NORTE,AM,CENTRO,ATALAIA DO NORTE,AM,Processo Seletivo Mestrado,PPG-LET-M,Mestrado em Letras,2019,1
+111545,M,Solteiro(a),15/03/1991,Branca,,CROATA,CE,MATINHA,TERESINA,PI,Processo Seletivo Doutorado,PPG-QUI-D,Doutorado em Química,2017,1
+91445,M,Solteiro(a),16/09/1995,Parda,Sem Deficiência,PORTO VELHO,RO,NOVO ALEIXO,PORTO VELHO,RO,Processo Seletivo Mestrado,PPG-CASA-M,Mestrado em Ciências do Ambiente e Sustentabilidade na Amazônia,2019,1
+141835,M,Uniao Estavel,03/03/1980,Branca,,PORTO ALEGRE,RS,SÃO JOÃO BOSCO,PORTO VELHO,RO,Processo Seletivo Pós-Doutorado,EPD-01,Estágio Pós Doutoral,2019,2
+140054,M,Casado(a),12/08/1986,Branca,,PORTO VELHO,RO,NOVA FLORESTA,PORTO VELHO,RO,Processo Seletivo Doutorado,PPG-IMU-D,Doutorado em Imunologia Básica e Aplicada,2019,1
+125362,M,Divorciado(a),02/12/1977,Parda,,LAGO DO JUNCO,MA,CENTENARIO,BOA VISTA,RR,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2017,1
+125361,F,Solteiro(a),23/05/1992,Parda,,SANTA LUZIA,MA,CAUAME,BOA VISTA,RR,Processo Seletivo Doutorado,PPG-EDU-D,Doutorado em Educação,2017,1
+112922,M,Casado(a),19/11/1968,Branca,,JOÃO PESSOA,PB,PARAVIANA,BOA VISTA,RR,Processo Seletivo Doutorado,PPG-INF-D,Doutorado em Informática,2016,1
+57749,F,Divorciado(a),09/06/1988,Parda,,MANICORE,AM,,,,Processo Seletivo Mestrado,PPG-ECH-M,Mestrado em Ensino de Ciências e Humanidades,2019,1
