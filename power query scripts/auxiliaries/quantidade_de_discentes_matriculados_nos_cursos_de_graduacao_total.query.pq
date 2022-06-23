@@ -1,0 +1,4 @@
+let
+    Source = Table.Combine({quantidade_de_discentes_matriculados_nos_cursos_de_graduacao_2018, quantidade_de_discentes_matriculados_nos_cursos_de_graduacao_2019, quantidade_de_discentes_matriculados_nos_cursos_de_graduacao_2020, quantidade_de_discentes_matriculados_nos_cursos_de_graduacao_2021})
+in
+    Source
